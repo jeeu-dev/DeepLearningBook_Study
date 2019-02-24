@@ -8,7 +8,7 @@
 1.1 Who Should Read This Book? <br>
 1.2 Historical Trends in Deep Learning <br>
 
-#### I Applied Math and Machine Learning Basics
+## I Applied Math and Machine Learning Basics
 
 #### 2 Linear Algebra 292.1 Scalars, Vectors, Matrices and Tensors
 2.2 Multiplying Matrices and Vectors <br>
@@ -59,7 +59,7 @@
 5.10 Building a Machine Learning Algorithm <br>
 5.11 Challenges Motivating Deep Learning <br>
 
-#### II Deep Networks: Modern Practices 
+## II Deep Networks: Modern Practices 
 
 #### 6 Deep Feedforward Networks 
 6.1 Example: Learning XOR <br>
@@ -135,7 +135,7 @@
 12.4 Natural Language Processing <br>
 12.5 Other Applications <br>
 
-#### III Deep Learning Research 
+## III Deep Learning Research 
 
 #### 13 Linear Factor Models 
 13.1 Probabilistic PCA and Factor Analysis <br>
