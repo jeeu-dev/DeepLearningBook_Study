@@ -5,8 +5,8 @@
 
 ### Contents
 #### 1 Introduction
-~~1.1 Who Should Read This Book? ~~<br>
-~~1.2 Historical Trends in Deep Learning ~~<br>
+~~1.1 Who Should Read This Book? <br>
+~~1.2 Historical Trends in Deep Learning <br>
 
 ## I Applied Math and Machine Learning Basics
 
