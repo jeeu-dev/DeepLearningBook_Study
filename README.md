@@ -1,6 +1,6 @@
 # DeepLearningBook
 -------
-> Big Leader Study 
+> [Big Leader](http://bigleader.net/) Study
 > Reference : [Deep Learning Book](http://www.deeplearningbook.org/) <br>
 
 ### Contents
