@@ -3,7 +3,12 @@
 > [Big Leader](http://bigleader.net/) Study
 > Reference : [Deep Learning Book](http://www.deeplearningbook.org/) <br>
 
+------
+
+
+
 ### Contents
+
 #### 1 Introduction
 1.1 Who Should Read This Book? <br>
 1.2 Historical Trends in Deep Learning <br>
