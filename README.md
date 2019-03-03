@@ -137,7 +137,8 @@
 
 ## III Deep Learning Research 
 
-#### 13 Linear Factor Models 
+#### 13 Linear Factor Models - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-13-linear-factor-models) / [Slide 2](https://www.slideshare.net/KyeongUkJang/chapter-13-linear-factor-models-2) 
+
 13.1 Probabilistic PCA and Factor Analysis <br>
 13.2 Independent Component Analysis (ICA) <br>
 13.3 Slow Feature Analysis <br>
@@ -214,4 +215,3 @@
 20.15 Conclusion <br>
 
 #### Bibliography
-
