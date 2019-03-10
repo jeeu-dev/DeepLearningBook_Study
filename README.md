@@ -133,11 +133,11 @@
 11.5 Debugging Strategies <br>
 11.6 Example: Multi-Digit Number Recognition <br>
 
-#### 12 Applications 
+#### 12 Applications - [Slide 1]() / [Slide 2]()
 12.1 Large-Scale Deep Learning <br>
 12.2 Computer Vision <br>
 12.3 Speech Recognition <br>
-12.4 Natural Language Processing <br>
+12.4 ~~Natural Language Processing~~ <br>
 12.5 Other Applications <br>
 
 ## III Deep Learning Research 
