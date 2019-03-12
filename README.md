@@ -100,8 +100,8 @@
 8.6 Approximate Second-Order Methods <br>
 8.7 Optimization Strategies and Meta-Algorithms <br>
 
-#### 9 Convolutional Networks 3269.1 The Convolution Operation
-9.2 Motivation <br>
+#### 9 Convolutional Networks 
+9.1 The Convolution Operation<br>9.2 Motivation <br>
 9.3 Pooling <br>
 9.4 Convolution and Pooling as an Inﬁnitely Strong Prior <br>
 9.5 Variants of the Basic Convolution Function <br>
