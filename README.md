@@ -15,8 +15,9 @@
 
 ## I Applied Math and Machine Learning Basics
 
-#### 2 Linear Algebra 292.1 Scalars, Vectors, Matrices and Tensors
-2.2 Multiplying Matrices and Vectors <br>
+#### 2 Linear Algebra 
+
+2.1 Scalars, Vectors, Matrices and Tensors<br>2.2 Multiplying Matrices and Vectors <br>
 2.3 Identity and Inverse Matrices <br>
 2.4 Linear Dependence and Span <br>
 2.5 Norms <br>
