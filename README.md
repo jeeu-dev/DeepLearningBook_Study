@@ -112,19 +112,19 @@
 9.10 The Neuroscientiﬁc Basis for ConvolutionalNetworks <br>
 9.11 Convolutional Networks and the History of Deep Learning <br>
 
-#### 10 Sequence Modeling: Recurrent and Recursive Nets
+#### 10 Sequence Modeling: Recurrent and Recursive Nets - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-10-sequence-modeling-recurrent-and-recursive-nets)
 10.1 Unfolding Computational Graphs <br>
-10.2 Recurrent Neural Networks <br>
+10.2 ~~Recurrent Neural Networks~~ <br>
 10.3 Bidirectional RNNs <br>
-10.4 Encoder-Decoder Sequence-to-SequenceArchitectures <br>
+10.4 ~~Encoder-Decoder Sequence-to-SequenceArchitectures~~ <br>
 10.5 Deep Recurrent Networks <br>
 10.6 Recursive Neural Networks <br>
 10.7 The Challenge of Long-Term Dependencies <br>
-10.8 Echo State Networks <br>
-10.9 Leaky Units and Other Strategies for MultipleTime Scales <br>
-10.10 The Long Short-Term Memory and Other Gated RNNs <br>
-10.11 Optimization for Long-Term Dependencies <br>
-10.12 Explicit Memory <br>
+10.8 ~~Echo State Networks~~ <br>
+10.9 ~~Leaky Units and Other Strategies for MultipleTime Scales~~ <br>
+10.10 ~~The Long Short-Term Memory and Other Gated RNNs~~ <br>
+10.11 ~~Optimization for Long-Term Dependencies~~ <br>
+10.12 ~~Explicit Memory~~ <br>
 
 #### 11 Practical Methodology - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-11-practical-methodology)
 11.1 Performance Metrics <br>
