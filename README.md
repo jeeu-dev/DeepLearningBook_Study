@@ -125,15 +125,15 @@
 10.11 Optimization for Long-Term Dependencies <br>
 10.12 Explicit Memory <br>
 
-#### 11 Practical Methodology
+#### 11 Practical Methodology - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-11-practical-methodology)
 11.1 Performance Metrics <br>
-11.2 Default Baseline Models <br>
+11.2 ~~Default Baseline Models~~ <br>
 11.3 Determining Whether to Gather More Data <br>
 11.4 Selecting Hyperparameters <br>
-11.5 Debugging Strategies <br>
+11.5 ~~Debugging Strategies~~ <br>
 11.6 Example: Multi-Digit Number Recognition <br>
 
-#### 12 Applications - [Slide 1]() / [Slide 2]()
+#### 12 Applications - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-12-applications-1) / [Slide 2](https://www.slideshare.net/KyeongUkJang/chapter-12-applications-2)
 12.1 Large-Scale Deep Learning <br>
 12.2 Computer Vision <br>
 12.3 Speech Recognition <br>
@@ -150,15 +150,15 @@
 13.4 Sparse Coding <br>
 13.5 Manifold Interpretation of PCA <br>
 
-#### 14 Autoencoders
+#### 14 Autoencoders - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-14-autoencoder) 
 14.1 Undercomplete Autoencoders <br>
 14.2 Regularized Autoencoders <br>
 14.3 Representational Power, Layer Size and Depth <br>
 14.4 Stochastic Encoders and Decoders <br>
 14.5 Denoising Autoencoders <br>
 14.6 Learning Manifolds with Autoencoders <br>
-14.7 Contractive Autoencoders <br>
-14.8 Predictive Sparse Decomposition <br>
+14.7 ~~Contractive Autoencoders~~ <br>
+14.8 ~~Predictive Sparse Decomposition~~ <br>
 14.9 Applications of Autoencoders <br>
 
 #### 15 Representation Learning 
