@@ -67,15 +67,15 @@
 
 ## II Deep Networks: Modern Practices 
 
-#### 6 Deep Feedforward Networks 
+#### 6 Deep Feedforward Networks - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-6-deep-feedforward-networks-1) / [Slide 2](https://www.slideshare.net/KyeongUkJang/chapter-6-deep-feedforward-networks-2)
 6.1 Example: Learning XOR <br>
 6.2 Gradient-Based Learning <br>
 6.3 Hidden Units <br>
 6.4 Architecture Design <br>
 6.5 Back-Propagation and Other DiﬀerentiationAlgorithms <br>
-6.6 Historical Notes <br>
+6.6 ~~Historical Notes~~ <br>
 
-#### 7 Regularization for Deep Learning
+#### 7 Regularization for Deep Learning - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-7-regularization-for-deep-learning-1) / [Slide 2](https://www.slideshare.net/KyeongUkJang/chapter-7-regularization-for-deep-learning-2) / [Slide 3](https://www.slideshare.net/KyeongUkJang/chapter-7-regularization-for-deep-learning-3)
 7.1 Parameter Norm Penalties <br>
 7.2 Norm Penalties as Constrained Optimization <br>
 7.3 Regularization and Under-Constrained Problems <br>
