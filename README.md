@@ -163,13 +163,13 @@
 14.8 ~~Predictive Sparse Decomposition~~ <br>
 14.9 Applications of Autoencoders <br>
 
-#### 15 Representation Learning 
+#### 15 Representation Learning - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-15-representation-learning-1) / [Slide 2](https://www.slideshare.net/KyeongUkJang/chapter-15-representation-learning-2)
 15.1 Greedy Layer-Wise Unsupervised Pretraining <br>
 15.2 Transfer Learning and Domain Adaptation <br>
 15.3 Semi-Supervised Disentangling of Causal Factors <br>
 15.4 Distributed Representation <br>
-15.5 Exponential Gains from Depth <br>
-15.6 Providing Clues to Discover Underlying Causes <br>
+15.5 ~~Exponential Gains from Depth~~ <br>
+15.6 ~~Providing Clues to Discover Underlying Causes~~ <br>
 
 #### 16 Structured Probabilistic Models for Deep Learning
 16.1 The Challenge of Unstructured Modeling  <br>
