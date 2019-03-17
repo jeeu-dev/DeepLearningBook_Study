@@ -91,7 +91,7 @@
 7.13 Adversarial Training <br>
 7.14 Tangent Distance, Tangent Prop and ManifoldTangent Classiﬁer <br>
 
-#### 8 Optimization for Training Deep Models
+#### 8 Optimization for Training Deep Models - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-8-optimization-for-training-deep-models)
 8.1 How Learning Diﬀers from Pure Optimization <br>
 8.2 Challenges in Neural Network Optimization <br>
 8.3 Basic Algorithms <br>
@@ -100,7 +100,8 @@
 8.6 Approximate Second-Order Methods <br>
 8.7 Optimization Strategies and Meta-Algorithms <br>
 
-#### 9 Convolutional Networks 
+#### 9 Convolutional Networks - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-9-convolutional-networks)
+
 9.1 The Convolution Operation<br>9.2 Motivation <br>
 9.3 Pooling <br>
 9.4 Convolution and Pooling as an Inﬁnitely Strong Prior <br>
