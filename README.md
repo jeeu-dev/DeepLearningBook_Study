@@ -171,7 +171,7 @@
 15.5 ~~Exponential Gains from Depth~~ <br>
 15.6 ~~Providing Clues to Discover Underlying Causes~~ <br>
 
-#### 16 Structured Probabilistic Models for Deep Learning - [Slide 1]() / [Slide 2]()
+#### 16 Structured Probabilistic Models for Deep Learning - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-16-structured-probabilistic-models-for-deep-learning-1) / [Slide 2](https://www.slideshare.net/KyeongUkJang/chapter-16-structured-probabilistic-models-for-deep-learning-2-137924213)
 16.1 The Challenge of Unstructured Modeling  <br>
 16.2 ~~Using Graphs to Describe Model Structure~~ <br>
 16.3 Sampling from Graphical Models <br>
