@@ -171,14 +171,14 @@
 15.5 ~~Exponential Gains from Depth~~ <br>
 15.6 ~~Providing Clues to Discover Underlying Causes~~ <br>
 
-#### 16 Structured Probabilistic Models for Deep Learning
+#### 16 Structured Probabilistic Models for Deep Learning - [Slide 1]() / [Slide 2]()
 16.1 The Challenge of Unstructured Modeling  <br>
-16.2 Using Graphs to Describe Model Structure <br>
+16.2 ~~Using Graphs to Describe Model Structure~~ <br>
 16.3 Sampling from Graphical Models <br>
 16.4 Advantages of Structured Modeling <br>
 16.5 Learning about Dependencies <br>
 16.6 Inference and Approximate Inference <br>
-16.7 The Deep Learning Approach to StructuredProbabilistic Models <br>
+16.7 The Deep Learning Approach to Structured Probabilistic Models <br>
 
 #### 17 Monte Carlo Methods 
 17.1 Sampling and Monte Carlo Methods <br>
