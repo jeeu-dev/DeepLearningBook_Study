@@ -180,7 +180,7 @@
 16.6 Inference and Approximate Inference <br>
 16.7 The Deep Learning Approach to Structured Probabilistic Models <br>
 
-#### 17 Monte Carlo Methods 
+#### 17 Monte Carlo Methods - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-17-monte-carlo-methods)
 17.1 Sampling and Monte Carlo Methods <br>
 17.2 Importance Sampling <br>
 17.3 Markov Chain Monte Carlo Methods <br>
