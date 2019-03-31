@@ -185,7 +185,7 @@
 17.2 Importance Sampling <br>
 17.3 Markov Chain Monte Carlo Methods <br>
 17.4 Gibbs Sampling <br>
-17.5 The Challenge of Mixing between SeparatedModes <br>
+17.5 The Challenge of Mixing between Separated Modes <br>
 
 #### 18 Confronting the Partition Function
 18.1 The Log-Likelihood Gradient <br>
