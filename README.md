@@ -187,7 +187,7 @@
 17.4 Gibbs Sampling <br>
 17.5 The Challenge of Mixing between Separated Modes <br>
 
-#### 18 Confronting the Partition Function
+#### 18 Confronting the Partition Function - 
 18.1 The Log-Likelihood Gradient <br>
 18.2 Stochastic Maximum Likelihood and Contrastive Divergence <br>
 18.3 Pseudolikelihood <br>
@@ -222,3 +222,8 @@
 20.15 Conclusion <br>
 
 #### Bibliography
+
+### Other Session
+
+- [NLP](https://www.slideshare.net/KyeongUkJang/natural-language-processingnlp-basic)
+
