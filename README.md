@@ -225,5 +225,5 @@
 
 ### Other Session
 
-- [NLP](https://www.slideshare.net/KyeongUkJang/natural-language-processingnlp-basic)
-
+- NLP - [Slide1](https://www.slideshare.net/KyeongUkJang/natural-language-processingnlp-basic) / [Slide2](https://www.slideshare.net/KyeongUkJang/natural-language-processingnlp-basic-2)
+- 
