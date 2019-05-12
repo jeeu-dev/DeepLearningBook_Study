@@ -196,7 +196,7 @@
 18.6 Noise-Contrastive Estimation <br>
 18.7 Estimating the Partition Function <br>
 
-#### 19 Approximate Inference
+#### 19 Approximate Inference - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-19-variational-inference)
 19.1 Inference as Optimization <br>
 19.2 Expectation Maximization <br>
 19.3 MAP Inference and Sparse Coding <br>
