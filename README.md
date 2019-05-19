@@ -203,16 +203,16 @@
 19.4 Variational Inference and Learning <br>
 19.5 Learned Approximate Inference <br>
 
-#### 20 Deep Generative Models
+#### 20 Deep Generative Models - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-20-deep-generative-models) /
 
 20.1 Boltzmann Machines <br>
 20.2 Restricted Boltzmann Machines <br>
 20.3 Deep Belief Networks <br>
-20.4 Deep Boltzmann Machines <br>
-20.5 Boltzmann Machines for Real-Valued Data <br>
-20.6 Convolutional Boltzmann Machines <br>
-20.7 Boltzmann Machines for Structured or Sequential Outputs <br>
-20.8 Other Boltzmann Machines <br>
+20.4 ~~Deep Boltzmann Machines~~ <br>
+20.5 ~~Boltzmann Machines for Real-Valued Data~~ <br>
+20.6 ~~Convolutional Boltzmann Machines~~ <br>
+20.7 ~~Boltzmann Machines for Structured or Sequential Outputs~~ <br>
+20.8 ~~Other Boltzmann Machines~~ <br>
 20.9 Back-Propagation through Random Operations <br>
 20.10 Directed Generative Nets <br>
 20.11 Drawing Samples from Autoencoders <br>
