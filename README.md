@@ -203,7 +203,7 @@
 19.4 Variational Inference and Learning <br>
 19.5 Learned Approximate Inference <br>
 
-#### 20 Deep Generative Models - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-20-deep-generative-models) /
+#### 20 Deep Generative Models - [Slide 1](https://www.slideshare.net/KyeongUkJang/chapter-20-deep-generative-models) / [Slide 2](https://www.slideshare.net/KyeongUkJang/chapter-20-vae) / [Slide 3](https://www.slideshare.net/KyeongUkJang/chapter-20-gan) 
 
 20.1 Boltzmann Machines <br>
 20.2 Restricted Boltzmann Machines <br>
@@ -226,4 +226,4 @@
 ### Other Session
 
 - NLP - [Slide1](https://www.slideshare.net/KyeongUkJang/natural-language-processingnlp-basic) / [Slide2](https://www.slideshare.net/KyeongUkJang/natural-language-processingnlp-basic-2)
-- 
+
